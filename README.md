@@ -1,9 +1,9 @@
-## Smart-Contracts
+# Smart-Contracts
 Solidity smart contracts
 
-## Solidity
+# Solidity
 
-# Constructors
+## Constructors
 
 Syntax:
 constructor() <Access Modifier> {          
@@ -16,8 +16,20 @@ while (condition) {
     statement or block of code to be executed if the condition is True
 }
 
-# Operators
-# Arrays
-# Mappings
-# Enums
-# Struct
+## Variables 
+
+Syntax:
+<type> <access modifier> <variable name> ; 
+
+![Screenshot](vari.png)
+
+
+## Operators
+
+## Arrays
+
+## Mappings
+
+## Enums
+
+## Struct
